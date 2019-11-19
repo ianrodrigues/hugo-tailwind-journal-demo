@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Tailwind Journal</title>
+    <link>https://ianrodrigues.github.io/hugo-tailwind-journal-demo/tags/news/</link>
+    <description>Recent content in News on Tailwind Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Sep 2017 10:38:55 +0200</lastBuildDate>
+    
+	<atom:link href="https://ianrodrigues.github.io/hugo-tailwind-journal-demo/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Is Hugo</title>
+      <link>https://ianrodrigues.github.io/hugo-tailwind-journal-demo/posts/2017/09/what-is-hugo/</link>
+      <pubDate>Sat, 02 Sep 2017 10:38:55 +0200</pubDate>
+      
+      <guid>https://ianrodrigues.github.io/hugo-tailwind-journal-demo/posts/2017/09/what-is-hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

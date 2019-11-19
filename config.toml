@@ -1,0 +1,41 @@
+baseURL = "https://ianrodrigues.github.io/hugo-tailwind-journal-demo/"
+title = "Tailwind Journal"
+theme = "hugo-tailwind-journal"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+publishDir = "docs"
+
+[taxonomies]
+    tag = "tags"
+
+[permalinks]
+    posts = "/posts/:year/:month/:title/"
+
+[params]
+    author = "John Doe"
+    avatar = "images/avatar.jpg"
+    description = "A minimalist journal template for Hugo using TailwindCSS."
+    tagline = "A minimalist journal template for Hugo using TailwindCSS."
+
+[languages]
+    [languages.en]
+        contentDir = "content/english"
+        languageCode = "en-us"
+        languageName = "🇺🇸 English"
+        weight = 1
+
+    [languages.pt-br]
+        contentDir = "content/portuguese"
+        description = "Um template minimalista para Hugo usando TailwindCSS."
+        languageCode = "pt-br"
+        languageName = "🇧🇷 Português"
+        tagline = "Um template minimalista para Hugo usando TailwindCSS."
+        weight = 2
+
+    [languages.de]
+        contentDir = "content/german"
+        description = "Eine minimalistische Journalvorlage für Hugo mit TailwindCSS."
+        languageCode = "de"
+        languageName = "🇩🇪 Deutsch"
+        tagline = "Eine minimalistische Journalvorlage für Hugo mit TailwindCSS."
+        weight = 3

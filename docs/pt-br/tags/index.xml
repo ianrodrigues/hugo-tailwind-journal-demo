@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tailwind Journal</title>
+    <link>https://ianrodrigues.github.io/hugo-tailwind-journal-demo/pt-br/tags/</link>
+    <description>Recent content in Tags on Tailwind Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 02 May 2018 10:29:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://ianrodrigues.github.io/hugo-tailwind-journal-demo/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>https://ianrodrigues.github.io/hugo-tailwind-journal-demo/pt-br/tags/lorem-ipsum/</link>
+      <pubDate>Wed, 02 May 2018 10:29:51 +0200</pubDate>
+      
+      <guid>https://ianrodrigues.github.io/hugo-tailwind-journal-demo/pt-br/tags/lorem-ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://ianrodrigues.github.io/hugo-tailwind-journal-demo/pt-br/tags/hugo/</link>
+      <pubDate>Sat, 02 Sep 2017 10:38:55 +0200</pubDate>
+      
+      <guid>https://ianrodrigues.github.io/hugo-tailwind-journal-demo/pt-br/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://ianrodrigues.github.io/hugo-tailwind-journal-demo/pt-br/tags/news/</link>
+      <pubDate>Sat, 02 Sep 2017 10:38:55 +0200</pubDate>
+      
+      <guid>https://ianrodrigues.github.io/hugo-tailwind-journal-demo/pt-br/tags/news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

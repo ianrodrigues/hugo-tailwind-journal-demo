@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorem Ipsum on Tailwind Journal</title>
+    <link>https://ianrodrigues.github.io/hugo-tailwind-journal-demo/de/tags/lorem-ipsum/</link>
+    <description>Recent content in Lorem Ipsum on Tailwind Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Fri, 02 Aug 2019 10:29:55 +0200</lastBuildDate>
+    
+	<atom:link href="https://ianrodrigues.github.io/hugo-tailwind-journal-demo/de/tags/lorem-ipsum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lorem Ipsum Three</title>
+      <link>https://ianrodrigues.github.io/hugo-tailwind-journal-demo/de/posts/2019/08/lorem-ipsum-three/</link>
+      <pubDate>Fri, 02 Aug 2019 10:29:55 +0200</pubDate>
+      
+      <guid>https://ianrodrigues.github.io/hugo-tailwind-journal-demo/de/posts/2019/08/lorem-ipsum-three/</guid>
+      <description>Nisi do irure do ipsum excepteur qui labore sit sit. Aliqua amet officia sunt esse irure non aliqua cillum ullamco ea esse mollit esse. Ea nulla id ullamco velit amet anim aliqua voluptate nisi veniam magna deserunt enim. Pariatur elit sint ullamco enim anim voluptate in minim ut. Duis et sunt commodo mollit amet.
+Nulla anim laborum ea esse nostrud mollit excepteur aute veniam tempor nisi. Ea proident occaecat minim ex non anim sint deserunt non pariatur consectetur aliquip eiusmod cillum.</description>
+    </item>
+    
+  </channel>
+</rss>
